@@ -9,7 +9,7 @@ License:	GPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
 # Source0-md5:	ebe00b121a6f16e940da39e6ae3ee398
-URL:		http://pear.horde.org/package/Horde_Tree/
+URL:		https://github.com/horde/horde/tree/master/framework/Tree/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
 BuildRequires:	php-pear-PEAR >= 1:1.7.0
