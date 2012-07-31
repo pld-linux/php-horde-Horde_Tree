@@ -3,12 +3,12 @@
 %include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Tree API
 Name:		php-horde-Horde_Tree
-Version:	1.0.0
+Version:	1.0.1
 Release:	1
 License:	GPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
-# Source0-md5:	ebe00b121a6f16e940da39e6ae3ee398
+# Source0-md5:	445fcc0b2c89e56419725ed0d7c200e3
 URL:		https://github.com/horde/horde/tree/master/framework/Tree/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
