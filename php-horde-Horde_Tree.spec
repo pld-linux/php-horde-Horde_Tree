@@ -1,6 +1,5 @@
 %define		status		stable
 %define		pearname	Horde_Tree
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Tree API
 Name:		php-horde-Horde_Tree
 Version:	1.0.1
