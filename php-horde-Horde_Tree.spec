@@ -3,7 +3,7 @@
 Summary:	%{pearname} - Horde Tree API
 Name:		php-horde-Horde_Tree
 Version:	1.0.1
-Release:	1
+Release:	2
 License:	GPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
